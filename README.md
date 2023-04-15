@@ -1,4 +1,4 @@
-<img alt="Coding" height="200" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ3mi1BL037Hu11s9wzN_wFDi9jVIVhJULXMXHIC2_Q&ec=48665698">
+<!-- <img alt="Coding" height="200" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ3mi1BL037Hu11s9wzN_wFDi9jVIVhJULXMXHIC2_Q&ec=48665698"> -->
 
 <h1 align="center">Hi 👋, I'm Vinay Sahu</h1>
 <h3 align="center">Be Aware Be Safe !</h3>
