@@ -1,8 +1,11 @@
+<img alt="Coding" height="200" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrQ3mi1BL037Hu11s9wzN_wFDi9jVIVhJULXMXHIC2_Q&ec=48665698">
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Vinay Sahu</h1>
+<h3 align="center">Be Aware Be Safe !</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvinaysahu&label=Profile%20views&color=0e75b6&style=flat" alt="mrvinaysahu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvinaysahu" alt="mrvinaysahu" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrvinaysahu" alt="mrvinaysahu" /></a> </p> -->
 
 - 🌱 I’m currently learning **Flutter**
 
